@@ -1,7 +1,7 @@
 # 🔍 Análisis de Presencia Digital de Comercios 
 ## *Del problema local a la investigación regional*
 
-![Tandil](images\Portada.png)
+![Tandil]([images\Portada.png](https://github.com/MCCastroMaluta/Portfolio-Python-esp/blob/main/images/Portada.png)
 
 ## 🛠️ **Stack Tecnológico**
 

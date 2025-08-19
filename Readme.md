@@ -1,7 +1,7 @@
 # 🔍 Análisis de Presencia Digital de Comercios 
 ## *Del problema local a la investigación regional*
 
-![Tandil](images\Portada.png)
+![Tandil](https://github.com/MCCastroMaluta/Portfolio-Python-esp/blob/main/images/Portada.png)
 
 ## 🛠️ **Stack Tecnológico**
 
@@ -174,7 +174,7 @@
 
 > *"De la necesidad de un repuesto a entender la digitalización comercial regional"*
 
-**📓 Notebook:** [Ver análisis completo]  
+**📓 Notebook:** [Ver análisis completo]  (https://github.com/MCCastroMaluta/Portfolio-Python-esp/blob/main/dataPrep.ipynb)
 **🔗 Repositorio:** [Mi github](https://github.com/MCCastroMaluta/Portfolio_data/tree/main/Python_esp)  
 **📧 Contacto:** mccastromaluta@gmail.com  
 **📍 Ubicación:** Tandil, Buenos Aires, Argentina
